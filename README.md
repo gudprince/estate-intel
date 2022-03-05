@@ -1,5 +1,7 @@
 # grid-app
 
+Demo: http://grid-app.herokuapp.com/
+
 ## Build Setup
 
 ```bash
