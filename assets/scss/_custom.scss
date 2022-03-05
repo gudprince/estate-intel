@@ -1,0 +1,83 @@
+.left-margin{
+  margin-left: 5px;
+}
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+  border-radius: 50%;
+}
+.color-circle {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.rectangle {
+  height: 50px;
+  width: 100px;
+
+}
+.bg-gray{
+  background-color: gray;
+}
+.oval {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  border-radius: 50%;
+}
+.triangle{
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid #555;
+}
+.border-bottom-danger{
+  border-bottom: 50px solid red;
+}
+.border-bottom-warning{
+  border-bottom: 50px solid yellow;
+}
+.border-bottom-primary{
+  border-bottom: 50px solid blue;
+}
+.border-bottom-success{
+  border-bottom: 50px solid green;
+}
+.border-bottom-gray{
+  border-bottom: 50px solid gray;
+}
+.border-bottom-info{
+  border-bottom: 50px solid #7dd3fc;
+}
+
+
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.gray{
+  background-color: gray;
+}
+.sky_blue{
+  background-color: #7dd3fc;
+}
+
+
+
+
+

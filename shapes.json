@@ -1,0 +1,62 @@
+[
+  { "name": "oval", "color": "red", "border_bottom": "", "id": 1 },
+  { "name": "circle", "color": "blue", "border_bottom": "", "id": 2 },
+  { "name": "square", "color": "green", "border_bottom": "", "id": 3 },
+  {
+    "name": "triangle",
+    "color": "yellow",
+    "border_bottom": "border-bottom-warning",
+    "id": 4
+  },
+  { "name": "rectangle", "color": "sky_blue", "border_bottom": "", "id": 5 },
+  { "name": "oval", "color": "blue", "border_bottom": "", "id": 6 },
+  { "name": "circle", "color": "green", "border_bottom": "", "id": 7 },
+  { "name": "square", "color": "yellow", "border_bottom": "", "id": 8 },
+  {
+    "name": "triangle",
+    "color": "sky_blue",
+    "border_bottom": "border-bottom-info",
+    "id": 9
+  },
+  { "name": "rectangle", "color": "red", "border_bottom": "", "id": 10 },
+  { "name": "oval", "color": "green", "border_bottom": "", "id": 11 },
+  { "name": "circle", "color": "yellow", "border_bottom": "", "id": 12 },
+  { "name": "square", "color": "sky_blue", "border_bottom": "", "id": 13 },
+  {
+    "name": "triangle",
+    "color": "red",
+    "border_bottom": "border-bottom-danger",
+    "id": 14
+  },
+  { "name": "rectangle", "color": "blue", "border_bottom": "", "id": 15 },
+  { "name": "oval", "color": "yellow", "border_bottom": "", "id": 16 },
+  { "name": "circle", "color": "sky_blue", "border_bottom": "", "id": 17 },
+  { "name": "square", "color": "red", "border_bottom": "", "id": 18 },
+  {
+    "name": "triangle",
+    "color": "blue",
+    "border_bottom": "border-bottom-primary",
+    "id": 19
+  },
+  { "name": "rectangle", "color": "green", "border_bottom": "", "id": 20 },
+  { "name": "oval", "color": "sky_blue", "border_bottom": "", "id": 21 },
+  { "name": "circle", "color": "red", "border_bottom": "", "id": 22 },
+  { "name": "square", "color": "blue", "border_bottom": "", "id": 23 },
+  {
+    "name": "triangle",
+    "color": "green",
+    "border_bottom": "border-bottom-success",
+    "id": 24
+  },
+  { "name": "rectangle", "color": "sky_blue", "border_bottom": "", "id": 25 },
+  { "name": "oval", "color": "gray", "border_bottom": "", "id": 26 },
+  { "name": "circle", "color": "gray", "border_bottom": "", "id": 27 },
+  { "name": "square", "color": "gray", "border_bottom": "", "id": 28 },
+  {
+    "name": "triangle",
+    "color": "gray",
+    "border_bottom": "border-bottom-gray",
+    "id": 29
+  },
+  { "name": "rectangle", "color": "gray", "border_bottom": "", "id": 30 }
+]
